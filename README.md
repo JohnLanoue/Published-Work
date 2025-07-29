@@ -18,4 +18,5 @@ Make existing files production ready.
   Stock Market Predicor (NLP)
 
 
-<img width="468" height="645" alt="image" src="https://github.com/user-attachments/assets/adc3b420-05b6-4ecb-950d-14ba431defb9" />
+7/29 Goals: 
+  Stand up NMIST reposititory by exploring an integration tool.  -- Too easy using the nbconvert function!
