@@ -20,3 +20,6 @@ Make existing files production ready.
 
 7/29 Goals: 
   Stand up NMIST reposititory by exploring an integration tool.  -- Too easy using the nbconvert function!
+
+7/30 Goals:
+  Finish publishing debugged NMIST items and repreciate Stock Picker jobs. 
